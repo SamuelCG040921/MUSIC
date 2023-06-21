@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.primera_parte{
+    background-image: url(images/angel.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: unset;
+   
+}
+.titulo{
+    padding: 20% 20% 20% 35%;
+    vertical-align: middle;
+    font-size: 200px;
+    color: #fff;
+}
+
+.segundaparte{
+    width: 30%;
+    float: left;
+    font-size: 70px;
+    margin: 10% 10% 0 10%;
+    
+}
+
+.colorsic{
+    color: #e31867;
+}
+.colormu{
+    color: #fd4c5c ;
+}
+
+.segundaparte p{
+    font-size: 35px;
+    word-spacing: 8px;
+    line-height: 2;
+}
+
+.imagenpalmer{
+    width: 30%;
+    float: right;
+    margin: 7% 10% 10% 10%;
+    height: 1000px;
+}
+
+.botonestilo{
+    color: white;
+    background-color: #fd4c5c;
+    padding: 32px 92px 32px 92px;
+    margin: 0 10% 0 0;
+    border-radius: 40px;
+    font-size: 20px;
+    border: #fff;
+}
+
+.terceraparte{
+    width: 30%;
+    float: right;
+    font-size: 70px;
+    margin: 10% 10% 10% 40%;
+}
+
+.terceraparte p{
+    font-size: 35px;
+    word-spacing: 8px;
+    line-height: 2;
+}
+
+.imagenwesley{
+    width: 30%;
+    float: left;
+    margin: -43% 10% 10% 10%;
+    height: 1000px;
+}
+
+.cuartaparte{
+    background: url(images/raptis.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: unset;
+    height: 1200px;
+}
+
+.cuartapartetexto{
+    width: 30%;
+    float: right;
+    font-size: 70px;
+    margin: 10% 10% 10% 40%;
+    color: #fff;
+}
+
+.cuartapartetexto p{
+    font-size: 35px;
+    word-spacing: 8px;
+    line-height: 2;
+    color: #fff;
+}
+
+.clear{
+    clear:both;
+}
+
+footer{
+    background-color: #fd4c5c;
+    
+}
+
+table{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    width: 60%;
+    color: #fff;
+    line-height: 30px;
+    font-size: 20px;
+    margin-left: 300px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+    padding-bottom: 50px;
+}
+th{
+    line-height: 100px;
+}
+td{
+    line-height: 45px;
+}
+
+.final{
+    text-align: left;
+    background-color: #fd4c5c;
+    font-size: 20px;
+    height: 100px;
+}
+.final p{
+    color: #fff;
+    margin-left: 10%;
+    padding-top: 35px;
+}
+
+.final span{
+    text-align: right;
+    margin-left: 45% ;
+
+}
